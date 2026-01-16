@@ -1,4 +1,5 @@
-# 小米、米家监控视频自动合并工具 (Xiaomi-Camera-Video-Merger)
+# 小米、米家监控视频自动合并工具 
+  Xiaomi-Camera-Video-Merger
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-orange.svg)
