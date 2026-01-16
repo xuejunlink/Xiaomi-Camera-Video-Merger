@@ -42,7 +42,7 @@ python XiaomiTool.py
 
 ## 🎨 界面预览
 
-![软件截图](https://github.com/你的用户名/你的仓库名/raw/main/screenshot.png)
+https://github.com/xuejunlink/Xiaomi-Camera-Video-Merger/blob/main/mivideo.png
 
 ---
 
